@@ -61,9 +61,9 @@ if h3_elem:
                 type = type.replace("Type: Character", "Character").strip()
             if text.startswith("Cost:"):
                 cost = text
-            elif text.startswith("Power:"):
+            if text.startswith("Power:"):
                 power = text
-        if type == "Type: Character":
+        if type == "Character":
             card_stats = f"{type} card with {cost} and {power}".encode('utf-8', 'ignore')
         else:
             card_stats = f"{type} card with {cost}".encode('utf-8', 'ignore')
