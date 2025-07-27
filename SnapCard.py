@@ -70,7 +70,7 @@ if h3_elem:
 
 # Create the directory if it doesn't exist
 
-card_stats_dir = ('D:/Weasel-Repo/MarvelSnapTools/posts/')
+card_stats_dir = ('D:/Weasel-Repo/marvel-snap-tools/posts/')
 os.makedirs(card_stats_dir, exist_ok=True)
 
 # Write the card name, ability, and stats to a text file

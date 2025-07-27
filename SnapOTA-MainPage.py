@@ -28,7 +28,7 @@ soup = BeautifulSoup(content.text, 'lxml')
 ota = soup.find( class_='c-article__content').text.replace(u"\u00A0", " ").replace(u"\u2019", "'").replace("  ", " ").encode('utf-8', 'ignore')
 
 # creating the directory to save the OTA notes, if it doesn't exist.
-otaNotesDir = ('D:/Weasel-Repo/RandomProjects/MarvelSnapTools/posts/')
+otaNotesDir = ('D:/Weasel-Repo/marvel-snap-tools/posts/')
 os.makedirs(otaNotesDir, exist_ok=True)
 
 with open(otaNotesDir+('MainPageOTANotes.txt'), 'wb') as f:

@@ -31,7 +31,7 @@ ota_patch = soup.body.text.replace(u"\u00A0", " ").replace(u"\u2019", "'").encod
 
 # set full location for the output, location must exist prior to running as we're not creating the location within the script
 
-ota_notes_dir = ('D:/Weasel-Repo/RandomProjects/MarvelSnapTools/posts/')
+ota_notes_dir = ('D:/Weasel-Repo/marvel-snap-tools/posts/')
 
 with open(ota_notes_dir+('OTANotes.txt'), 'wb') as f:
     f.write(ota_date + b"\n")
