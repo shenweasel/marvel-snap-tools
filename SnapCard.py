@@ -3,7 +3,7 @@ import requests
 import os
 
 card_name = input("Card Name? ")
-card_name_stripped = card_name.replace(" ", "").strip()
+card_name_stripped = card_name.replace(" ", "").strip().casefold()
 
 agamotto_skill_cards = {
     "WindsofWatoomb": "Spell01Agamotto", 
@@ -15,6 +15,10 @@ agamotto_skill_cards = {
 if card_name_stripped in agamotto_skill_cards:
     card_name_stripped = agamotto_skill_cards[card_name_stripped]
 
+fallen_one_fix = ("thefallenone", "fallenone", "thefallenone")
+
+if card_name_stripped in fallen_one_fix:
+    card_name_stripped = "FallenOne"
 
 url = ("https://snap.fan/cards/")
 snapUrl = (url + card_name_stripped).strip()
@@ -77,6 +81,7 @@ os.makedirs(card_stats_dir, exist_ok=True)
 
 with open(card_stats_dir + ('SnapCard.txt'), 'wb') as f:
     f.write(card_name.encode('utf-8', 'ignore') + b'\n' 
+              + card_stats + b'\n'
               + ability_type + b'\n'
-              + card_stats + b'\n')
+            )
     print(f'File SnapCard.txt Saved')
