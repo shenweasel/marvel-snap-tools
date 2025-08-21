@@ -10,12 +10,15 @@ agamotto_skill_cards = {
     "TemporalManipulation": "Spell02Agamotto",
     "ImagesofIkonn": "Spell03Agamotto",
     "BoltsofBalthakk": "Spell04Agamotto"    
-}
+    }
 
 if card_name_stripped in agamotto_skill_cards:
     card_name_stripped = agamotto_skill_cards[card_name_stripped]
 
-fallen_one_fix = ("thefallenone", "fallenone", "thefallenone")
+fallen_one_fix = (
+    "thefallenone", 
+    "fallenone"
+    )
 
 if card_name_stripped in fallen_one_fix:
     card_name_stripped = "FallenOne"
