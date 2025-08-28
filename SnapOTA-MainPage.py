@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import os
+from datetime import date
 
 snap_url = input("What is the Snap OTA URL this week? ")
 content = requests.get(snap_url)
@@ -31,6 +32,6 @@ ota = soup.find( class_='c-article__content').text.replace(u"\u00A0", " ").repla
 otaNotesDir = ('D:/Weasel-Repo/marvel-snap-tools/posts/')
 os.makedirs(otaNotesDir, exist_ok=True)
 
-with open(otaNotesDir+('MainPageOTANotes.txt'), 'wb') as f:
+with open(otaNotesDir+(f'{date.today()}_MainPageOTANotes.txt'), 'wb') as f:
     f.write(ota)
     print('File OTANotes.txt Saved')
