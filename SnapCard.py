@@ -22,6 +22,13 @@ fallen_one_fix = (
 
 if card_name_stripped in fallen_one_fix:
     card_name_stripped = "FallenOne"
+    
+viv_vision_fix = (
+    "vivvision"
+    )
+
+if card_name_stripped in viv_vision_fix:
+    card_name_stripped = "viv"
 
 url = ("https://snap.fan/cards/")
 snapUrl = (url + card_name_stripped).strip()
