@@ -1,5 +1,9 @@
 This is your precursor to the consensus, the place to discuss the card releasing for the week as well as group source the work on brews and possible shells and packages, both current known good decks as well as possible new, theorycrafted brews.
 
+**OTA Week Warning**: Unless you're already seasonal complete and plan to stay that way or have planned on picking up this card already for 6k it's best to wait for Thursday at the earliest to make your purchasing decisions.
+
+[Remove the OTA Week warning if this isn't an OTA week.]
+
 **This Week's Card**
 
 > [Card]  
@@ -11,16 +15,14 @@ Power:
 
 This section can be approached in multiple ways, you can go with the consensus style and just discuss synergies or as I've been exploring you can go for Synergies and Packages while skipping day 1 deck ideas. There is still room for day 1 deck ideas depending on the card release in which case I'd probably stick to a Synergies only section and add a **Decks** section immediately following.
 
-**First Impression**  
+**Decks**
 
-***Disclaimer*** these are my own thoughts on the upcoming release.
-
-We can skip the summary of the card in this case and move on to what you think of the card and if there are any decks you're interested in playing the card in.
+For this section, if you have decks you think would be worthwhile or have seen decks from other creators add them here. Of course give credit for other creator's decks.
 
 **Your Thoughts**
 
 Do you plan on picking [Card] up?
 
-How do you expect this [Card] to perform?
+How do you expect [Card] to perform?
 
 What other possible shells and synergies might there be?
