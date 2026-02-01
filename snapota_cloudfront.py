@@ -7,7 +7,7 @@ snap_url = input("What is the Snap OTA URL this week? ")
 content = requests.get(snap_url)
 
 # This uses the cloudfront page to get the update information, to navigate to that page you'll need to get the URL from the in-game announcement.
-# https://d3hyqhf8hhr6vv.cloudfront.net/en/april-24th-balance-updates-ljiwue9232jw/ can be used for test-gets.
+# https://d3hyqhf8hhr6vv.cloudfront.net/en/balance-update-january-29-2026/ can be used for test-gets.
 
 if content.status_code != 200:
     snap_url = input("What is the Snap OTA URL this week? ")
@@ -29,14 +29,16 @@ def getOtaCloudfront():
    # finally we reinforce the encoding as without I was getting errors when attempting to output to file.
 
     
-   ota_date = soup.find('h1', class_='sc-8d1736fe-5 bCQHOp').text.strip().encode('utf-8', 'ignore')
+   ota_date = soup.find('h1', class_='sc-98ffb98a-5 gshXUT').text.strip().encode('utf-8', 'ignore')
+   #if this breaks, you can find the class name by inspecting the main class and looking for the h1 class that has the Balance Update date.
 
    ota_patch = soup.body.text.replace(u"\u00A0", " ").replace(u"\u2019", "'").encode('utf-8', 'ignore')  
-   ota_notes_dir = ('D:/Weasel-Repo/marvel-snap-tools/posts/')
+   otaNotesDir = ('D:/Weasel-Repo/marvel-snap-tools/posts/')
+   os.makedirs(otaNotesDir, exist_ok=True)
 
    # set full location for the output, location must exist prior to running as we're not creating the location within the script
 
-   with open(ota_notes_dir+('OTANotes.txt'), 'wb') as f:
+   with open(otaNotesDir+(f'{date.today()}_OTANotes.txt'), 'wb') as f:
        f.write(ota_date + b"\n")
        f.write(ota_patch)
        print('File OTANotes.txt Saved')
