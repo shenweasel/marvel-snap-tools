@@ -1,0 +1,195 @@
+***What is Team Clash?***  
+
+Team Clash returns this week, reimagining Marvel Snap as a faction based card game mixed with a bit of Grand Arena, High Voltage Missions, and a fresh take on custom decks. Six total teams, each with a unique ability and each with 6 unique Team Clash cards with new abilities.
+
+At a Glance| -
+---|---  
+**Event Length**| 3/12 @ Reset - 3/19 @ reset
+**Entry Fee** | One ticket  
+**Starting Tickets** | 6  
+**Refresh** | 4 tickets every 8 hours  
+**Ticket soft cap** | 9  
+**Ticket hard cap** | 99  
+**Cost per ticket** | 10 Gold
+
+*Notes:* 
+
+* timer for the 8 hour ticket reset starts on the first time you enter Grand Arena.  
+
+* Soft cap means once you are at 9, you will no longer refresh tickets. You may still however, claim or buy tickets.
+
+* We have the typical 10 tickets for 50 gold in the rotating shop.  
+
+* Premium Event Pass track is available for 800g. Purchasing the Event Pass grants enough XP to get to Milestone 11.
+
+* Progress on both passes happens simultaneously.
+
+* Win with "XYZ Team" missions are gone. The "Play with XYZ Team" missions remain. 
+
+***LTGM Differences***  
+
+**Turn Structure:** 6 Turns, 7 with Magik 
+**Energy Per Turn:** Standard Snap rules 1 with +1 per turn after excepting abilities.    
+**Starting Hand:** 3. Draw 1  
+**Additional Info:** You can see your opponent's chosen faction on the screen.
+**Missions Refresh:** 6 total missions to begin, Missions refresh every 8 hours. Refreshes can also be bought with gold.  
+**Missions Rewards:**  Missions grant XP and Emblems and rewards based on difficulty of the mission give 10, 20, or 40 of both.  
+
+* Note that SD are not clear in their event template on the number of missions refreshing, assumption based on previous run is 3, but will need to confirm after clearing missions to see how many refresh per interval.
+
+***Rewards Per Match:***    
+  
+Results | Reward | Ticket?  
+---|---|---
+**Win:**  | 10 Emblems + 10 XP | + 1 Arena Ticket   
+**Loss:** | 5 Emblems + 5 XP  | No   
+**Tie:** | 5 Emblems + 5 XP  | No  
+
+***Event Pass Rewards*** 
+
+* Free Track Reward Card  
+
+> Sandstorm    
+Cost: 2  
+On Reveal: Add 2 Rocks to your hand. Give them +1 Power for each of your front-Row characters.  
+
+Reiterating info from above:
+
+* Premium Event Pass track is available for 800g. Purchasing the Event Pass grants enough XP to get to Milestone 11.
+
+* Progress on both passes happens simultaneously.
+
+* Exclusive Variant for Premium Pass owners is a [Sandstorm Variant](https://snap.fan/cards/Sandstorm/Sandstorm_02/) from Dardo Studios.
+
+**Event Pass Rewards**  
+
+Level | XP | Free Event Pass Rewards | Premium Rewards +1035 XP | 
+---|---|---|---
+1 | 5 XP | 2 Distressed Rainbow Border | 300 Emblems  
+2 | 115 XP | 75 Random Boosters | 5 Tickets  
+3 | 230 XP | 300 Emblems | 75 Collector's Tokens  
+4 | 345 XP | 5 Tickets | 2 Distressed Rainbow Border  
+5 | 460 XP | 125 Collector's Tokens | 75 Random Boosters  
+6 | 575 XP | 1 Fire Red Card Border | 300 Emblems  
+7 | 690 XP | 75 Random Boosters | 5 Tickets  
+8 | 805 XP | 300 Emblems | 100 Credits  
+9 | 920 XP | 5 Tickets | 1 Fire Red Card Border  
+10 | 1035 XP | Card: Sandstorm | 75 Random Boosters  
+11 | 1150 XP | 1 Common Mystery Border | 300 Emblems  
+12 | 1265 XP | 75 Random Boosters | 5 Tickets  
+13 | 1380 XP | 300 Emblems | 75 Collector's Tokens  
+14 | 1495 XP | 5 Tickets | 1 Distressed Gold Card Border  
+15 | 1610 XP | 100 Credits | 75 Random Boosters  
+16 | 1725 XP | 1 Premium Mystery Border | 300 Emblems  
+17 | 1840 XP | 75 Random Boosters | 5 Tickets  
+18 | 1955 XP | 300 Emblems | 125 Credits  
+19 | 2070 XP | 5 Tickets | 1 Fire Red Card Border  
+20 | 2185 XP | 125 Collector's Tokens | 75 Random Boosters  
+21 | 2300 XP | 2 Distressed Gold Card Border | 1000 Emblems  
+22 | 2415 XP | 75 Random Boosters | 5 Tickets  
+23 | 2530 XP | 500 Emblems | 100 Collector's Tokens  
+24 | 2645 XP | Mystery Variant | 2 Distressed Rainbow Border  
+25 | 2760 XP | 125 Credits | 75 Random Boosters  
+26 | 3000 XP | 500 Emblems | Variant: Sandstorm   
+
+**Event Pass Totals at a Glance**
+
+Reward | Free Track | Premium Track | Event Pass Total   
+---|---|---|---
+Event Currency | 2,200 | 2,200 | 4,400  
+Entry Tickets | 20 | 25 | 45   
+Credits | 225 | 225 | 450   
+Collector's Tokens | 250 | 250 | 500   
+Boosters | 375 | 500 | 1000  
+Borders | 6 | 7 | 13   
+New Card | 1 | - | 1
+Mystery Variant | 1 | - | 1   
+Premium Variant | - | 1 | 1   
+
+
+
+***Event Shop Details***  
+
+**Portal Pulls**  
+
+* 1500 Emblems  
+* Toxie Doxie Leo Chiola  
+* Magneto - Nao Fuji 
+* Mystique - Aaron Bartling
+
+**Rotating Shop**
+
+Item | Description | Limit | Cost 
+---|---|---|---
+Tickets | 7 | 1 | 50 Gold  
+Cosmetic | Avatar | 1 | 300 Emblems    
+Cosmetic | Emote | 1 | 2500 Emblems    
+Cosmetic | Rare Variant | 1 | 1000 Emblems    
+Cosmetic | Super Rare Variant | 1 | 1500 Emblems    
+
+**Event Shop**
+
+Item | Description | Limit | Cost 
+---|---|---|---
+Variant |  Agent Coulson Envar Studio | 1 | 1,500 Emblems
+Card Pack | Collector Series 4 | 1 | 3,000 Emblems
+Card Pack | Collector Series 3 | 3 | 1,000 Emblems 
+New Emote | Caliban Appalling | 1 | 2,500 Emblems 
+New Border | Distressed Gold | 12 | 800 Emblems 
+New Border | Distressed Rainbow | 12| 800 Emblems 
+New Border | Fire Red | 12 | 800 Emblems 
+New Border | Cosmic Orange | 12| 800 Emblems 
+New Border | Cosmic Gold | 12| 800 Emblems 
+New Border | Cosmic Blue | 12| 800 Emblems 
+Border | Premium Mystery Border | 2 | 900 Emblems 
+Border | Common Mystery Border | 2 | 600 Emblems 
+Border | Premium Mystery Variant | 2 | 900 Emblems 
+Credits | 100 | 3 | 100 Emblems 
+Credits | 50 | 3 |  50 Emblems 
+New Avatar | Wild Child | 1 | 300 Emblems 
+New Avatar | Hulk Viktor Farro | 1 | 300 Emblems 
+New Avatar | Nightcrawler Peter Nguyen | 1 | 300 Emblems 
+
+***The Teams***  
+
+Deck Lists with the variant versions of card abilities will be posted in the comments. For now here are your Team Abilities.
+
+**Avengers**  
+
+After you play an Avenger, give one of your Avengers there +1 Power.  
+
+**X-Men**  
+
+You get +1 Energy for each location where you have 3 or more X-Men  
+
+**Thunderbolts**
+
+Your Thunderbolts reveal with +2 Power at locations you're losing.
+
+**Guardians of the Galaxy**  
+
+ALL cards reveal with +1 Power at the glowing location  
+
+**Spider-verse**
+
+You get +2 Energy if one of your Spider-Verse cards moved last turn.  
+
+**Brotherhood of Mutants**  
+
+End of Turn: Give a Brotherhood card in your hand +1 Power for each location you're winning.  
+
+***Banlist and Errata***
+
+While each Team has a pre-constructed deck, you can still opt to edit up to 6 cards in the deck. Of note is that unlike Grand Arena you can add the 'original' cards to their respective decks and queue to play games, still unsure if this is a bug and saw no reports so we're assuming this is intended. However, I will edit if I see confirmation or this changed since the last run. Do with this information what you will.  
+
+**Banlist**  
+
+* Alioth  
+* Arishem  
+* Galactus  
+* Hydra Bob  
+* Human Torch  
+* Nightmare  
+* Mercury  
+* Storm  
+* The Living Tribunal  

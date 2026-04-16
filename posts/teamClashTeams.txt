@@ -1,0 +1,254 @@
+**Avengers**
+
+*After you play an Avenger, give one of your Avengers there +1 Power.*
+
+Team Clash Hawkeye  
+Cost: 1  
+Power: 2   
+On Reveal: If you play a card here next turn, +1 Power. If it’s an Avenger, repeat this ability here.
+
+Team Clash Captain America  
+Cost: 3  
+Power: 4  
+Ongoing: Your other Avengers here have +2 Power.
+
+Team Clash Doctor Strange  
+Cost: 2  
+Power: 2  
+On Reveal: Move one of your Avengers with On Reveal to this location to repeat its ability.
+
+Team Clash Thor  
+Cost: 3  
+Power: 3  
+On Reveal: Draw an Avenger, then shuffle Mjolnir into your deck.
+
+Team Clash Vision  
+Cost: 4  
+Power: 6  
+If you have another Avenger here, you can move this.
+
+Team Clash Hulk  
+Cost: 6  
+Power: 11  
+On Reveal: +2 Power for each other Avenger you have here. 
+
+America Chavez  
+Jeff  
+Okoye  
+Ironheart  
+Captain Carter  
+Iron Man  
+
+---
+
+**X-Men**
+
+*You get +1 Energy for each location where you have 3 or more X-Men.*  
+
+Team Clash Nightcrawler  
+Cost: 1  
+Power: 2  
+You can move this once. When this moves, give it +1 Power for each of your X-Men at the new location.  
+
+Team Clash Wolverine  
+Cost: 2  
+Power: 3  
+At the start of each turn, +2 Power if you have any bonus energy.  
+
+Team Clash Jean Grey  1
+Cost: 2  
+Power: 3  
+The next time you get bonus Energy as the turn starts, draw a card.  
+
+Team Clash Cyclops  
+Cost: 3  
+Power: 1  
+Ongoing: Gains Power equal to the most Energy you had in one turn this game.  
+
+Team Clash Jubilee  
+Cost: 4  
+Power: 1  
+On Reveal: Add the top card of your deck to this location. Give it Power equal to your unspent Energy.  
+
+Team Clash Professor X  
+Cost: 5  
+Power: 4  
+You get +1 Energy each turn for each of your X-Men here.  
+
+Sunspot  
+Jim Hammond Human Torch  
+Armor  
+Hope Summers  
+Legion  
+Magneto  
+
+---
+
+**Thunderbolts**
+
+*Your Thunderbolts reveal with +1 Power at locations you’re losing.*  
+
+Team Clash Valentina  
+Cost: 1  
+Power: -1  
+On Reveal: Add a random Thunderbolt to your hand. Give it -1 Cost.  
+
+Team Clash Toxie Doxie  
+Cost: 2  
+Power: 2  
+On Reveal: Give 2 characters in your hand +3 Power. You can’t play them next turn unless they’re Thunderbolts.  
+
+Team Clash Winter Soldier  
+Cost: 2  
+Power: 8  
+You can only play this at a location you’re losing.  
+
+Team Clash Ghost  
+Cost: 3  
+Power: 6  
+Costs 1 less for each location you’re losing.  
+
+Team Clash Task Master  
+Cost: 4  
+Power: 0  
+On Reveal: Gains Power equal to your other highest-Power Thunderbolt.  
+
+Team Clash Sentry  
+Cost: 4  
+Power: 9  
+On Reveal: Add a -9 Power Void to a location where you don’t have a Thunderbolt.  
+
+The Hood  
+Hulk Buster  
+Viper  
+Absorbing Man  
+Klaw  
+Red Hulk  
+
+---
+
+**Guardians of the Galaxy**
+
+*ALL cards reveal with +1 Power at the glowing location.*  
+
+Team Clash Mantis  
+Cost: 0  
+Power: 1  
+On Reveal: If your opponent played a card here this turn, give a Guardian in your hand -2 Cost.  
+
+Team Clash Rocket Raccoon  
+Cost: 1  
+Power: 3  
+On Reveal: If your opponent played a card here this turn, draw a Guardian and give it +2 Power.  
+
+Team Clash Star Lord  
+Cost: 2  
+Power: 3  
+On Reveal: If your opponent played a card here this turn, give +1 Power to your Guardians in hand and play.  
+
+Team Clash Drax  
+Cost: 3  
+Power: 4  
+On Reveal: If your opponent played a card here this turn, double this card’s Power.  
+
+Team Clash Groot  
+Cost: 4  
+Power: 11  
+On Reveal: Discard a non-Guardian card from your hand unless your opponent played a card here this turn.  
+
+Team Clash Gamora  
+Cost: 5  
+Power: 9  
+On Reveal: If your opponent played a card here this turn, destroy their lowest-Cost card here.  
+
+Nebula  
+Adam Warlock  
+Angela  
+Silver Surfer Fantastic Four First Steps  
+Gladiator  
+Beta Ray Bill  
+
+---
+
+**Spider-Verse**
+
+*You get +2 Energy if one of your Spider-Verse cards moved last turn.*
+
+Team Clash Ghost Spider  
+Cost: 1  
+Power: 2  
+On Reveal: The last card you played moves here. If it’s a Spider-Verse card, this gains +2 Power.
+
+Team Clash Agony  
+Cost: 1  
+Power: 2  
+After you play a card here, merge this with it. If it’s a Spider-Verse card, move it away from here.
+
+Team Clash Scarlet Spider  
+Cost: 3  
+Power: 5  
+Activate: Add a clone with the same Power to another location, then move this to the third location.
+
+Team Clash Symbiote Spider-Man  
+Cost: 4  
+Power: 6   
+Activate: Merge one of your cards here into this. Replace that card with a Spider-Verse card from your deck.  
+
+Team Clash Anti-Venom  
+Cost: 4  
+Power: 4  
+On Reveal: If any card moved last turn, set the Cost of your top card to 0.  
+
+Team Clash Spider-Man 2099 
+Cost: 5  
+Power: 8  
+On Reveal: For each time your cards moved this game, give +1 Power to one of your cards. (0 times)  
+
+Arana  
+Madame Web  
+Peni Parker  
+Silk  
+Spider-Punk Man-Spider  
+
+---
+
+**Brotherhood of Mutants**
+
+*End of Turn: Give a Brotherhood card in your hand +1 Power for each location you're winning.*  
+
+Team Clash Selene  
+Cost: 1  
+Power: 1  
+On Reveal: A Brotherhood card in your hand steals 2 Power from a random card in your opponent's hand.  
+
+Team Clash Scarlet Witch  
+Cost: 2  
+Power: 2  
+On Reveal: Replace this location with another one. If you're winning here, add a Brotherhood card to your hand.  
+
+Team Clash Mystique  
+Cost: 2  
+Power: 3  
+On Reveal: Copy the text of one of your Brotherhood cards here.  
+
+Team Clash white Queen  
+Cost: 3  
+Power: 3  
+On Reveal: Copy a card from your opponent's hand into your hand. While you're winning here, it costs 2 less.   
+
+Team Clash Lady Deathstrike  
+Cost: 4  
+Power: 4  
+On Reveal: Destroy an enemy card here with less Power than your total Brotherhood Power here.  
+
+Team Clash Magneto  
+Cost: 5  
+Power: 8  
+On Reveal: Move an enemy 3-Cost card and an enemy 4-Cost card away from here.    
+
+Quicksilver  
+Forge  
+Mister Sinister  
+Maverick  
+Sebastian Shaw  
+Juggernaut  

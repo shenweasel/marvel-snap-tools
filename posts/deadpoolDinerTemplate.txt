@@ -1,0 +1,170 @@
+Welcome back to Deadpool's Diner.
+
+**Event At a Glance**
+
+At a Glance| -
+---|---  
+**Event Start**| July 24th - August 7th  
+**Event End**| July 24th - August 7th  
+**Refresh** | Bubs refresh every hour and will be full after 8 hours  
+**Event Shop Open** | Event Shop lines if no shop 
+**Event Shop Close** |
+
+**Card Reward**  
+
+> [Card]
+Cost:   
+Power:   
+[Ability]
+
+* Cost in Shop
+
+**Diner Rules**
+
+* As with previous runs, Bubs are the currency to enter tables and fuel your progress on the Maximum Effort Reward Track, the track has borders, credits, boosters, nachos, bub cap increases and an InHyuk Lee Deadpool variant.
+
+* Bubs refresh hourly and will cap at your current bub cap every 8 hours. 
+
+* Each Table has it's own associated minimum bub requirement to unlock and a separate, lower bub required to 'ante' up or play a round.
+
+* You can only bet up to your maximum bubs, if for instance you only have 15k bubs and snap 3 times on Hell Burger you will cap at 15k, not the 24k maximum of the table.
+
+* Bots 'do' exist to some extent to ensure fast matchmaking.
+
+* For the sake of clarity, losing does not reduce progress on the reward track. So don't sweat the losses too hard.  
+
+* Each player can snap up to 3 times, doubling only their own wager. Making the mode a little friendlier to the casual and less comp oriented. 
+
+* No more Auto-doubling on turns 4, 5 and 6! 
+
+* Nachos for the event shop are earned through plate missions, see the event shop section for more details.
+
+* Hot and Featured Locations will not be in this mode, however, there will be a number of LTGM specific locations that can spawn. 
+
+**The Tables**
+
+Table | Bubs to Unlock | Ante | Potential Bubs
+--- | --- | --- | --- 
+Waffles | 500 | 150 | 1,200 
+Smores | 2,900 | 300 | 2,400 
+Spaghetti | 8,500 | 1,000 | 8,000 
+Hell Burger | 24500 | 3,000 | 24,000
+
+**Plate Missions**
+
+* each table has the same mission snap 3 times.  
+* can be done across games at that table, progress doesn't carry over between tables.  
+* auto-collects upon completion and resets allowing for replaying for the same reward.  
+* You only need 85 games on the top table with 3 snaps each to buy the entire base shop so the grind shouldn't be 'as' bad this time around for the event shop. This of course doesn't include the daily rotation stuff which could cost more.
+
+Table | Mission reward
+---|---
+1 | 10
+2 | 20 
+3 | 60 
+4 | 150
+
+**Bub Refreshes**
+
+Level | Cap | Bubs / hr  
+--- | --- | ---
+1 | 2,000 | 250 
+2 | 5,000 | 625 
+3 | 10,000 | 1,250  
+4 | 30,000 | 3,750 
+5 | 60,000 | 7,500
+
+**Reward Track**  
+
+Milestone | Bubs Earned | Reward | Amount
+---|---|--|---
+Milestone 1 | 2,000 | Fire Red Card Border | 2
+Milestone 2 | 2,500 | Nachos | 50
+Milestone 3 | 3,500 | Bub Refill Upgrade | 1
+Milestone 4 | 4,500 | Credits | 100
+Milestone 5 | 6,000 | Mystery Variant | 1
+Milestone 6 | 8,500 | Metal Gold Chains Card Border | 2
+Milestone 7 | 10,000 | Bub Refill Upgrade | 1
+Milestone 8 | 12,500 | Nachos | 100
+Milestone 9 | 15,000 | Credits | 100
+Milestone 10 | 20,000 | Fire Red Card Border | 2
+Milestone 11 | 25,000 | Bub Refill Upgrade | 1
+Milestone 12 | 30,000 | Nachos | 150
+Milestone 13 | 50,000 | Random Boosters | 155
+Milestone 14 | 75,000 | Mystery Variant | 1
+Milestone 15 | 100,000 | Collector's Tokens | 250
+Milestone 16 | 125,000 | Premium Mystery Variant | 1
+Milestone 17 | 175,000 | Random Boosters | 50
+Milestone 18 | 225,000 | Metal Gold Chains Card Border | 2
+Milestone 19 | 300,000 | Random Boosters | 155
+Milestone 20 | 400,000 | Bub Refill Upgrade | 1
+Milestone 21 | 500,000 | Nachos | 200
+Milestone 22 | 600,000 | Credits | 200
+Milestone 23 | 700,000 | Nachos | 250
+Milestone 24 | 800,000 | Nachos | 500
+Milestone 25 | 1,000,000 | Variant: Wolverine - Nikola Čižmešija | 1
+
+**Event Shop**
+
+* Nachos are the event shop currency and are earned through Plate Missions which are completed by snapping in Diner matches. 
+
+* Plate missions automatically refresh upon finishing one.
+
+* Wins and losses both fuel the plate missions, so no worries that your progress won't be tracked if you bomb out while attempting to complete a mission.  
+
+* Not listed is a daily shop that will have rotating rewards per SD those rewards are Borders, Boosters, Avatars, and Emotes.  
+
+* ***Per SD Team Answers***: We expect the average free-to-play player to be able to earn Danger plus a bit more.
+
+Item | Description | Limit | Nachos
+---|---|---|---
+New Card | Askani'son | 1 | 2,000
+Card | Series 4 Pack | 1 | 1,300
+Card | Series 3 Pack | 3 | 650
+Emote | Zabu Thumbs Up | 1 | 1,000
+Variant | Psylocke | Adi Granov Astonishing | 1 | 400
+Variant | Cable | Tyler Wadpole | 1 | 400
+Variant | Hit Monkey | PANDART STUDIO | 1 | 400
+Border | Red Fire | 12 | 200
+Border | Metal Gold Chains | 1 | 2,200
+Border | Matte Red | 12 | 200
+Border | Matte Red | 12 | 200
+Border | Matte Black | 12 | 200
+Border | Distressed Gold | 12 | 200
+Border | Premium Mystery Border | 3 | 450
+Border | Common Mystery Border | 3 | 300
+Variant | Premium Mystery Variant | 1 | 400
+Avatar | Psylocke | Adi Granov Astonishing | 1 | 125
+Avatar | Cable | Tyler Wadpole | 1 | 125
+Avatar | Hit Monkey | PANDART STUDIO | 1 | 125
+Avatar | Askani'son | 1 | 125
+Credits |  100 | 3 | 45
+Credits | 50 | 3 | 20
+
+**Locations**
+
+These Locations are specific to Deadpool's Diner and only appear in the mode.
+
+* Appearance rate appears to be roughly 50% to get a Diner location.  
+* Table may not be complete, I'll be adding additional locations as they come up.
+
+Location | Effect  
+---|---
+Aunt Mayhem | Your next play here gains +2 Power for each of your Snaps.  
+Cassandra's Nova Roma | Draw a card, It steals 1 power from cards in the enemy deck.  
+Clown City | Whoever is losing here has +4 power at adjacent locations.  
+Isle of SHHHHH | After each Snap move a card away from here.    
+Los Diablos Sauce | After turn 3, another location becomes Taco Truck.
+Mercworld | After turn 3 return card here to hand. Double their Power.
+Mount VeSPEWvius | Players can't Snap after Turn 5.
+Munchineworld | After you play a card here, your opponent gets a Chimichanga.
+Noob Dimension | Add a series 1 card to your hand. It costs 0.
+Pool's School | After your next Snap, your highst-Power card(s) move to here.
+Positivity Zone | Cards here have +1 Power for EACH Snap this game.
+Project Unicorn | Add a Gwenpool to each side.
+Sanctum Snaptorem | You can't play cards here unless you Snapped last turn.
+Souper Flow | You get +1 energy each turn if you Snapped this game.
+The Grub | Add a random Food Fight variant to each player's hand.
+The Peek | After your next Snap copy the top card of the opponent's deck.
+Valley of the Baby Hand | Destroy your next play here. Snap to revive a card.
+Weapon XI Facility | Snap to destroy your lowest-Cost card. It's replaced at +1 Cost.

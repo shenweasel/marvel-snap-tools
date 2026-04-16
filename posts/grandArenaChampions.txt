@@ -1,0 +1,221 @@
+**Magneto**  
+Cost: 6  
+Power: 12  
+On Reveal: Move all enemy 3 and 4-cost cards to this location.  
+
+**Skill: Master of Magnetism**  
+Cost: 4  
+Effect: On Reveal: Move all enemy 3 and 4-Cost cards to this location. If either side here is full, double your Champion's Power.
+
+---
+
+**Thor**   
+Cost: 3  
+Power 4  
+On Reveal: Shuffle Mjolnir into your deck.  
+
+**Skill: Thundering Hammer**  
+Cost: 2  
+On Reveal: Shuffle Mjolnir into your deck. Draw a card.  
+
+---
+
+**Hulk**  
+Cost: 6    
+Power: 12  
+
+
+**Skill: Hulk Smash**
+Cost: 3  
+On Reveal: Set the Cost of your Hulks to 4. (in deck or in hand)   
+Note: “Hulks” refer to Hulk, Red Hulk, She-Hulk, Hulkling, and Bruce Banner’s transformed Hulk.
+
+---
+
+**Ghost-Spider **
+Cost: 1  
+Power: 3  
+On Reveal: The last card you played moves here.
+
+**Skill: Arachnid Acrobratics**  
+Cost: 4  
+On Reveal: Your Champion gets +2 Power for each time one of your cards moved this game.
+
+---
+
+**Carnage** 
+Cost: 2  
+Power: 2  
+On Reveal: Destroy your other cards here. +2 Power for each destroyed. 
+
+**Skill: Maximum Carnage**  
+Cost: 1 
+On Reveal: Banish this to move your Champion here. Repeat its On Reveal ability.
+
+---
+
+H.E.R.B.I.E - 
+Cost: 2  
+Power: 3  
+Each turn this is in play, swap to a new Activate ability until one is used. 
+
+**Skill: Helpful Assistance **
+Cost: 4
+Execute all 4 of H.E.R.B.I.E.'s abilities here
+
+---
+
+**Mister Fantastic** 
+Cost: 3  
+Power: 1  
+Ongoing: Adjacent locations have +3 Power. 
+
+**Skill: Council of Reeds**
+Cost: 2 
+
+On Reveal: Give an Ongoing card in your hand -1 Cost and +1 Power. After you play it, repeat this
+
+---
+
+**Invisible Woman**  
+Cost: 2  
+Power: 3  
+**Ongoing:** Card you play here are not revealed until the game ends.  
+
+**Forcefield**  
+Cost: 0  
+**On Reveal:** Give your champion +1 power for each unrevealed card at it's location. You get that much Energy next turn.  
+
+---  
+
+**Human Torch First Steps**  
+Cost: 3  
+Power: 2  
+**End of Turn:** +1 Power. Once per game, if your side here is full, double this card's Power instead.  
+
+**Flame On**  
+Cost: 1  
+**On Reveal:** Add your Champion's Power to the top card of your Deck.  
+
+---
+
+**Dr Doom**  
+Cost: 6  
+Power: 5  
+**On Reveal:** Add a 5-Power DoomBot to each other location.
+
+**Master Plan**  
+Cost: 2  
+**On Reveal:** Your 6-Cost cards cost 3 next turn.  
+
+---
+
+**The Thing First Steps**  
+Cost: 5  
+Power: 6  
+**End of Turn:** +2 Power. Once per game, if your side here is full, destroy an enemy card here with less Power.  
+
+**Clobberin' Time**  
+Cost: 6  
+Costs 1 less for each different Cost among your cards in play.  
+**On Reveal:** Give your Champion +8 Power.  
+
+---
+
+**Mole Man**  
+Cost: 3  
+Power: 4  
+On Reveal: Banish the top card of your deck. Add 2 Rocks to your hand. Set their Power to the banished card’s Cost. 
+
+**Skill: Subterranean Summons** 
+Cost: 1  
+On Reveal: Give each created card in your hand -1 Cost or +3 Power.
+
+---
+
+**Captain America**  
+Cost: 3  
+Power: 3 
+Ongoing: Your other Ongoing cards here have +2 Power.
+
+**Skill: Shield Throw**  
+Cost: 3  
+On Reveal: Put an Ongoing card from your deck here with +1 Power. Shuffle a copy of this into your deck.
+
+---
+
+**Iron Man**   
+Cost: 5  
+Power: 0    
+Ongoing: Your total Power is doubled here.
+
+**Skill: Stark Technology**  
+Cost: 1  
+On Reveal: After this turn, give your Champion +2 Power for each location you’re winning.
+
+---
+
+**Weapon X**  
+Cost: 2    
+Power: 2  
+After one of your other cards is destroyed, +1 Power. After every 0rd time, improve this effect by 1. (0/0)
+
+**Skill: Berserker Rage**  
+Cost: 2  
+On Reveal: Destroy your cards here with less Power than your Champion. Add a copy of this to your hand with +1 Cost.
+
+---
+
+**Rocket Raccoon**  
+Cost: 1  
+Power: 1  
+On Reveal: If your opponent played a card here this turn, +4 Power.
+
+**Skill: Massive Arsenal**  
+Cost: 2  
+On Reveal: Banish this to move your Champion here. Repeat its On Reveal and add a copy of this to your hand.
+
+---
+
+**Black Panther**   
+Cost: 5  
+Power: 5  
+On Reveal: Double this card's Power. 
+
+**Skill: Wakanda Forever**  
+Cost: 6 
+On Reveal: Give Power equal to your Champion's to one of your cards here.
+
+---
+
+**Thanos**  
+Cost: 6  
+Power: 12  
+Game Start: Shuffle the six Infinity Stones into your deck.  
+
+**Skill: Inevitable**    
+Cost: 2
+On Reveal: If your Champion is in play with 20 or more Power, destroy front-row enemy cards here. (even unrevealed ones)
+
+---
+
+**Annihilus**   
+Cost: 5  
+Power: 8  
+On Reveal: Your cards with Power below 0 switch sides. Destroy those that can't.
+
+**Skill: Lord of the Negative Zone**  
+Cost: 3 
+
+On Reveal: Your Champion steals 1 Power from EACH other card here.
+
+---
+
+**Sentinel**  
+Cost: 2  
+Power: 3  
+On Reveal: Add another Sentinel to your hand. 
+
+**Skill: Project Armaggeddon**  
+Cost: 3  
+On Reveal: Give your Sentinels +1 Power for each created card you've played this game that isn't a Sentinel.

@@ -1,0 +1,213 @@
+High Voltage Overdrive returns today at reset. Please use this thread for your discussions on the mode. 
+
+---
+**Event Info**  
+
+At a Glance| -  
+---|---  
+**Event Start**| January 12 @ Reset
+**Event End**| January 19th @ Reset
+**Shop** | closes on January 21st @ Reset
+
+---  
+
+**LTGM Differences:** | -
+---|--- 
+**Turn Structure:** | 4 Turns   
+**Energy Per Turn:** | between 2 and 4 for first 3 turns  
+**Starting Hand:** | 2 cards start in hand. 2 cards drawn per turn.    
+**Additional Info:** | See the Arc Reactor Energy System and Overdrive Cards explanation   
+**Missions Refresh:** | 3 missions every 8 hours or 40 per mission (120 for all 3)  
+**Missions Rewards:** | 125, 250, 500   
+
+* 44 wins to get as many points as one set of missions completed.
+
+
+
+**Arc Reactor Energy System and Overdrive Cards**
+
+Instead of the traditional Snap Cube mechanic, you'll see an Arc Reactor. Before the first 3 turns, it will generate between 2 and 4 Max Energy, which is added to your total. Both you and your opponent receive the exact same energy boost, eliminating the guesswork.
+
+Each player will receive 8 charged cards that are shuffled into their deck at the beginning of the game, Charged cards each get -1 cost and +1 power as if they were surged. 
+
+Additionally, the Overdrive mechanic introduces something different to the Arc Reactor Energy System tied to playing the Overdrive cards. 
+
+At the beginning of each game you will see an objective for playing 5 Overdrive cards, there are two sets of effects, scaling effects which scale on turns 1, 2 and 3 and Non-Scaling effects which only happen on turn 4. If you didn't set off the scaling effect it may change into one of the non-scaling effects.
+
+*Scaling Effects*
+
+* Give each charged card +1/+2/+3/+4 power (both in hand and in play)  
+* Add 1/2/3 Chimichangas to each player's side of each location 
+* Move 2/4/6 (total) cards one location to the left  
+* Transform charged cards in play into ones that cost 0/1/2/3 more  
+* Destroy the 1/2/3/4 lowest powered cards for each player (on ties, choose one at random)  
+* Repeat 1/2/3/4 random 'On Reveals' for each player  
+* Each player draws 2/3/4 cards. Their costs all become 3.  
+
+*Non-Scaling Effects*  
+
+* Destroy the two locations with the lowest powers. (if there is a tie, leave one at random)  
+* The winner of this game gets twice as many volts.  
+* Each player adds a Blob to a random location. (if able)  
+
+**Event Pass**
+
+New to this run of Overdrive is the addition of the Event Pass and two tracks: free track and premium track.  
+
+* 800g for the premium track.  
+* Premium track purchase nets 5k experience which is enough for the 10th Milestone reward and 2 Neon Purple borders
+* Worth noting is that buying the premium track does not immediately unlock the Series 4 card Dragon Lord.
+* Progress on the tracks is shared, meaning if you hold off and pick up the premium pass later, you'll still get all rewards.  
+
+---
+
+Level | Free Rewards | Premium Reward
+---|---|---
+1 | 2 Distressed Rainbow Border | 500 Volts  
+2 | 500 Volts | 75 Collector's Tokens
+3 | 75 Random Boosters | 500 Volts
+4 | 500 Volts | 1 Metal Chains Border
+5 | 75 Collector's Tokens |75 Random Boosters
+6 | 1 Neon Nights Border | 500 Volts
+7 | 500 Volts | 100 Credits
+8 | 75 Random Boosters | 500 Volts
+9 | 500 Volts | 1 Distressed Rainbow Border
+10 | 100 Credits | 75 Random Boosters
+11 | New Card: Dragon Lord | 500 Volts
+12 | 500 Volts | 75 Collector's Tokens
+13 | 75 Random Boosters | 500 Volts
+14 | 500 Volts | 1 Metal Chains Border
+15 | 75 Collector's Tokens | 75 Random Boosters
+16 | 1 Premium Mystery Border | 500 Volts
+17 | 500 Volts | 100 Credits
+18 | 75 Random Boosters | 500 Volts
+19 | 500 Volts | 1 Metal Chains Border
+20 | 100 Credits | 75 Random Boosters
+21 | 1 Neon Nights Border | 500 Volts
+22 | 500 Volts | 75 Collector's Tokens
+23 | 75 Random Boosters | 500 Volts
+24 | 500 Volts | 1 Neon Nights Border
+25 | 75 Collector's Tokens | 500 Volts
+26 | 500 Volts | New Variant: Dragon Lord Chibi
+
+*Track Rewards Breakdown*
+
+Reward | Free Track | Premium Track | Total  
+---|---|---|---
+Event Currency | 5000 | 5000 | 10000
+Credits | 200 | 250 | 450  
+Tokens | 225 | 225 | 500 
+Boosters | 375 | 380 | 755
+Borders | 5 | 5 | 10 
+New S4 Card | 1 | - | 1
+Premium Variant | - | 1 | 1
+
+**Shop Rewards:**
+
+No shop this time around, this is entirely milestone oriented
+
+*Portal Pulls*
+
+* 8000 Volts  
+* Silver Surfer Pan Variant  
+* Giganto Alberto Dal Lago Variant
+* Wave Envar Studio Variant
+
+Daily Offers | Cost | Limit 
+---|---|---  
+Borders | 3,000 | 3  
+Avatars | 1,500 | 1  
+Emote |  15,000 | 1 
+Rare Variant | 8,000 | 1  
+Super Rare Variant | 15,000 | 1  
+
+* Rotation is 3 items  
+* Avatar and Emote share a slot  
+* Rare and Super Rare Variant share a slot
+
+*Shop Offerings*
+
+* Card packs will show sold for those that already own all available cards in that pack
+
+Item | Description | Limit | Cost 
+---|---|---|---
+Card Pack | Seasonal Series 4 Pack | 1 | 22,000 Volts 
+Card Pack | Series 4 Collectors | 1 | 18,000 Volts
+Card Pack | Series 3 Card Pack | 3 | 6,000 Volts 
+New Emote | Iron Fist Pumped | 1 | 15,000 Volts 
+New Emote | Namor Sweating | 1 | 15,000 Volts 
+New Border | Distressed Rainbow | 12 | 5,000 Volts 
+New Border | Neon Nights | 12 | 5,000 Volts 
+New Border | Metal Chains | 12 | 5,000 Volts 
+New Border | Cosmic Blue | 12 | 5,000 Volts 
+New Border | Cosmic Green | 12 | 5,000 Volts 
+Mystery Border | Premium | 2 | 6,000 Volts 
+Mystery Border | Common | 2 | 3,500 Volts 
+Mystery Variant | Premium | 2 | 5,000 Volts 
+Credits | 100 | 2 | 550 Volts 
+Credits | 50 | 3 |  275 Volts 
+
+
+
+**Banned Lists**  
+
+*Cards:*
+
+* Alioth  
+* Black Widow  
+* Galactus  
+* Magik  
+* Darkhawk  
+* Cassandra Nova  
+* Kang  
+* Thanos  
+* Arishem  
+* Agamotto  
+* Agatha Harkness  
+* Mysterio  
+* Quinjet  
+* Loki  
+* High Evolutionary  
+* Gorgon  
+* Mobius M Mobius   
+* Jim Hammond  
+
+*Banned Locations:*
+
+* Rocket Pad 🆕
+* Attilan
+* Avengers Compound
+* Death's Domain
+* District X
+* Dream Dimension
+* Grand Central
+* Hala
+* Kyln
+* Limbo
+* Los Diablos Base
+* Mindscape
+* Miniaturized Lab
+* Mirror Dimension
+* New York
+* Ruins
+* Sanctum Sanctorum
+* Stark Tower
+* Starlight Citadel
+* Strange Academy
+* The Big House
+* TVA
+* The Vault
+* Westview
+* Asgard
+* The Bifrost
+* Oscorp Tower
+* Klyntar
+* Eternity Range
+* Collapsed Mine
+* Pet Mansion
+* Valley Of The Hand
+* Mount Vesuvius
+* Thunderbolts Tower
+* Eternals' Ark
+* World Forge
+

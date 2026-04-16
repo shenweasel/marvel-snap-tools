@@ -9,7 +9,7 @@ Cost:
 Power:
 Text: 
 
-
+➡️
 
 Synergies
 [describe how it fits into an archetype]

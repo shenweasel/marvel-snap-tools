@@ -1,0 +1,278 @@
+This will be your one-stop spot for all things Grand Arena.
+
+***What is Grand Arena?***  
+
+Welcome back to the Grand Arena the limited time game mode where you get to pick your champion and conquer the competition! You have the option of choosing a pre-constructed deck themed around a champion or you may customize a deck to your liking so even if you're new to Snap you can jump right in and play!  
+
+At a Glance|  | 
+---|---
+**Event Length**| February 12th @ Reset  |  February 19th @ reset
+**Entry Fee** | One ticket  
+**Starting Tickets** | 6  
+**Refresh** | 4 tickets every 8 hours  
+**Ticket soft cap** | 9  
+**Ticket hard cap** | 99  
+**Cost per ticket** | 10 Gold
+
+*Notes:* 
+
+* timer for the 8 hour ticket reset starts on the first time you enter Grand Arena. As such it is recommended to log in ASAP to get your timer ticking.    
+
+* Daily rotating shop features a discounted bundle for entry tickets once per 8 hours at 50 gold for 10 tickets.  
+
+* Paid event Pass Track is 800 gold. 
+
+***LTGM Differences***  
+
+**Turn Structure:** 6 Turns, 7 with Magik 
+**Energy Per Turn:** +1 per turn, meaning 2 energy to start and 7 energy for final turn. Arishem is currently unbanned meaning +2 from turn 3 is possible.    
+**Starting Hand:** Champion Character + Associated Skill + 2 cards. Draw 1  
+**Additional Info:** You can see your opponent's chosen champion and the associated skill by clicking on the banner next to your opponent's avatar.  
+
+***Rewards Per Match:***    
+  
+Results | Reward | Ticket?  
+---|---|---
+**Win:**  | 10 Glory + 10 XP | + 1 Arena Ticket   
+**Loss:** | 5 Glory + 5 XP  | No   
+**Tie:** | 5 Glory + 5 XP  | No  
+
+---
+
+***The Champions***
+
+**Iron Man**   
+Cost: 5  
+Power: 0    
+Ongoing: Your total Power is doubled here.
+
+**Skill: Stark Technology**  
+Cost: 1  
+On Reveal: After this turn, give your Champion +2 Power for each location you’re winning.
+
+---
+
+**Weapon X**  
+Cost: 2    
+Power: 2  
+After one of your other cards is destroyed, +1 Power. After every 0rd time, improve this effect by 1. (0/0)
+
+**Skill: Berserker Rage**  
+Cost: 2  
+On Reveal: Destroy your cards here with less Power than your Champion. Add a copy of this to your hand with +1 Cost.
+
+---
+
+**Rocket Raccoon**  
+Cost: 1  
+Power: 1  
+On Reveal: If your opponent played a card here this turn, +4 Power.
+
+**Skill: Massive Arsenal**  
+Cost: 2  
+On Reveal: Banish this to move your Champion here. Repeat its On Reveal and add a copy of this to your hand.
+
+---
+
+**Thor**   
+Cost: 3  
+Power 4  
+On Reveal: Shuffle Mjolnir into your deck.  
+
+**Skill: Thundering Hammer**  
+Cost: 2  
+On Reveal: Shuffle Mjolnir into your deck. Draw a card.  
+
+---
+
+**Hulk**  
+Cost: 6    
+Power: 12  
+
+
+**Skill: Hulk Smash**
+Cost: 3  
+On Reveal: Set the Cost of your Hulks to 4. (in deck or in hand)   
+Note: “Hulks” refer to Hulk, Red Hulk, She-Hulk, Hulkling, and Bruce Banner’s transformed Hulk.
+
+---
+
+**Ghost | Spider **
+Cost: 1  
+Power: 3  
+On Reveal: The last card you played moves here.
+
+**Skill: Arachnid Acrobratics**  
+Cost: 4  
+On Reveal: Your Champion gets +2 Power for each time one of your cards moved this game.
+  
+---
+
+**Mister Fantastic** 
+Cost: 3  
+Power: 1  
+Ongoing: Adjacent locations have +3 Power. 
+
+**Skill: Council of Reeds**
+Cost: 2 
+
+On Reveal: Give an Ongoing card in your hand  -1 Cost and +1 Power. After you play it, repeat this
+
+---
+
+**Invisible Woman**  
+Cost: 2  
+Power: 3  
+**Ongoing:** Card you play here are not revealed until the game ends.  
+
+**Forcefield**  
+Cost: 0  
+**On Reveal:** Give your champion +1 power for each unrevealed card at it's location. You get that much Energy next turn. 
+
+***Banlist and Errata***
+
+While each champion has a pre-constructed deck, you can still opt to edit the deck. There is, however, a ban list.  
+
+First is that you cannot play any of the Champions in a deck other than their own, you can however use different versions of the cards. So for instance, you cannot play Mister Fantastic in an Invisible Woman Deck but you could play Mister Fantastic First Steps in both decks.
+
+**Banned List**
+
+*  Agatha Harkness  
+*  Alioth  
+*  Black Bolt  
+*  Cannonball  
+*  Debrii  
+*  Enchantress  
+*  Galactus  
+*  Gorgon  
+*  Juggernaut  
+*  Killmonger  
+*  Living Tribunal  
+*  Mercury  
+*  Mobius M.  Mobius  
+*  Mr. Negative  
+*  Negasonic Teenage Warhead  
+*  Nimrod  
+*  Professor X  
+*  Scream  
+*  Sera  
+*  Shang Chi  
+*  Spider Ham  
+*  Storm  
+*  Wiccan  
+*  Wong  
+
+---
+
+***Notes on 'Economy' of the mode***
+
+Assuming from the previous event that SD expect the 'average' winrate to be around 50%.
+
+> The new card, Major Victory, is available for all players in the Free Track. Based on previous LTGMs, we expect the average Free Event Pass player to earn enough Glory to unlock Major Victory.
+
+---
+
+***New Card Reward***  
+
+**Major Victory**  
+Cost: 3  
+Power: 4  
+On Reveal: Add 2 members of the Guardians crew to your hand.  
+
+Eligible Guardians: Star-Lord, Rocket Raccoon, Groot, Drax, Gamora, Mantis.
+
+
+---
+
+***Rewards Track*** 
+
+**Free**  
+
+XP | Free Event Pass | Premium Event Pass (+540 XP)
+---|---|---
+5 | 2 Refraction Rainbow Borders | 300 Glory
+50 | 75 Random Boosters | 2 Tickets
+96 | 200 Glory | 75 Collector's Tokens
+142 | 2 Tickets | 2 Refraction Rainbow Borders
+188 | 125 Collector's Tokens | 75 Random Boosters
+234 | 1 Fire Blue Border | 300 Glory
+280 | 75 Random Boosters | 3 Tickets
+326 | 200 Glory | 100 Credits
+372 | 3 Tickets | 1 Fire Blue Border
+418 | New Card: Major Victory | 75 Random Boosters
+464 | 1 Common Mystery Border | 300 Glory
+510 | 75 Random Boosters | 2 Tickets
+556 | 200 Glory | 75 Collector's Tokens
+602 | 2 Tickets | 1 Refraction Rainbow Border
+648 | 100 Credits | 75 Random Boosters
+694 | 1 Premium Mystery Border | 300 Glory
+740 | 75 Random Boosters | 3 Tickets
+786 | 300 Glory | 125 Credits
+832 | 5 Tickets | 1 Fire Blue Border
+878 | 125 Collector's Tokens | 75 Random Boosters
+924 | 2 Refraction Rainbow Borders | 300 Glory
+970 | 75 Random Boosters | 2 Tickets
+1016 | 300 Glory | 100 Collector's Tokens
+1062 | Mystery Variant | 2 Refraction Rainbow Border
+1108 | 125 Credits | 75 Random Boosters
+1150 | 300 Glory | Variant: Major Victory
+
+**Event Total Breakdown**
+
+Reward | Free Track | Premium Track | Total
+ ---|---|---|---
+Glory Event Currency | 1,500 | 1,500 | 3,000
+Arena Tickets | 12 | 12 | 24
+Credits | 225 | 225 | 450
+Tokens | 250 | 250 | 500
+Mystery Variant | 1 |  | 1
+Boosters | 375 | 375 | 750
+Borders | 8 | 7 | 15
+New S4 Card | 1 |  | 1
+Premium Variant |  | 1 | 1
+
+---
+
+***Shop Items*** 
+
+**Portal Pull**  
+
+* 600 Glory or 840 gold per pull
+* Angela Eric Canete Variant  
+* Cosmo Eduardo Mello "Hi Jeff!" Variant  
+* Ka-Zar Tony Moy Variant  
+
+**Daily Shop**  
+
+Item | Limit | Glory
+---|---|---
+Avatar | 1 | 200  
+Emote | 1 | 1200  
+Rare Variant | 1 | 600  
+Super Rare Variant | 1 |  1000  
+
+**Main Shop**    
+
+Item | Description | Limit | Glory 
+---|---|---|---
+Card Pack | Collector's Series 4 | 1 | 1500  
+Card Pack | Series 3 | 3 | 800    
+New Variant | Star-Lord Pocket Variant | 1 | 600  
+New Emote | Shocked Moondragon | 1 |  1200  
+Variant | Premium Mystery | 1 |  600 
+Border  | Rainbow Refraction | 12 |  500  
+Border  | Blue Fire | 12 |  500  
+Border  | Fire | 12 |  500  
+Border  | Cosmic Purple | 12 |  500  
+Border  | Premium Mystery Border | 3 |  500  
+Border  | Common Mystery Border | 3 |  300  
+Credits 100 | 3 | 65  
+Credits 50 | 3 |  30  
+
+Notes from the mods:  
+
+* As always, keep things civil. 
+
+* If there are changes to the ban list, I will make an update to this post and also add an edit to the pinned comment.
+
+* I will be providing the full decklists for each Champion in a pinned comment.

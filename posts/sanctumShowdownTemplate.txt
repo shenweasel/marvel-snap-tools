@@ -1,0 +1,185 @@
+**What is Sanctum Showdown?**
+
+Sanctum Showdown is a limited time game mode that puts a heavier emphasis on controlling locations to earn points, first player to 16 points wins the match. 
+
+At a Glance| |
+---|---  
+**Event Start**| 02/26 @ Reset  
+**Event End** | 03/04 @ Reset  
+**Shop Close** | 03/06 @ Reset
+**Entry Fee** | One ticket, win and you get your ticket refunded
+**Starting Scrolls** | 6  
+**Refresh** | 4 Scrolls every 8 hours, Scrolls will not regenerate once you hit 9.
+**Cost per Scroll** | 20 Gold  / 100 gold for 7 once every 8 hours
+
+**How do I play?**
+
+1. Click on the Sanctum Showdown banner on the home page of the app.  
+2. Each entry costs 1 scroll, the good news is, if you win you keep your scroll.  
+3. 6 Scrolls to start and 4 generate every 8 hours. You can also earn scrolls in other ways, the rewards track has a set at several intervals. As noted Scrolls can also be purchased at a rate of 20g per or 100 gold for 7 once per 8 hour refresh.  
+
+**What are the Rules?**
+
+* For turns 1 and 2 there will be a random sanctum location which is worth 1 point.  
+* For turns 3 onward there will be one sanctum location worth 4 points with the other 2 locations worth 1 each.  
+* Every turn the sanctum switches locations.  
+Starting with turn 3 you can snap to up the stakes by adding an additional point to the Sanctum location. Each player may snap once to increase the points by 1 for a maximum of 6 points.  
+* First player to 16 points wins. 
+* Opponent retreats are worth 16 charms.
+* Win or Lose both players keep the points they earn, which acts as an incentive to remain in the game even if you're losing to earn an extra point or two. 
+* Points convert to Charms and XP at a 1 to 1 rate. Charms and XP are completely separated, XP is specifically for climbing the rewards track and Charms are of course the event currency for the shop.
+* Maximum of 15 turns.
+
+**Rewards Track**
+
+Climbing the Sorcerer Ranks will give you things as you reach a new threshold, you earn ranks as you earn XP and Charms from playing the mode. There is a Free reward track and the Premium Reward Track which can be purchased for 800g which offers additional scrolls, credits, boosters, and cosmetic rewards alongside slightly faster progression from additional XP rewards.  
+
+* initial purchase of the pass gives 650 XP which is a boost to the tier 10 rewards.
+
+* The passes end at 1700 XP.  
+
+*Card Reward*  
+
+>Star-Hawk    
+Cost: 2  
+Power: 2  
+On Reveal: On odd turns, give your cards at the left location +1 Power. On even turns, give to the right location.  
+
+Notes on earning Star-Hawk:  
+
+* Nothing stated - but I'm assuming based on the other LTGM's from the last few months that they expect the average F2P player to be able to earn enough XP to get Star-Hawk for free. 
+  
+
+XP Required | Free Rewards | Premium Reward (+650 XP upon purchase)
+---|---|---
+10 | 2 Fire Purple Border | 300 Charms
+65 | 75 Random Boosters | 2 Scrolls
+130 | 300 Charms | 75 Collector's Tokens
+195 | 2 Scrolls | 2 Distressed Green Border
+260 | 125 Collector's Tokens | 75 Random Boosters
+325 | 1 Cosmic Purple Border | 300 Charms
+390 | 75 Random Boosters | 2 Scrolls
+455 | 300 Charms | 100 Credits
+520 | 2 Scrolls | 1 Distressed Green Border
+585 | Card: Star-Hawk | 75 Random Boosters
+650 | 1 Common Mystery Border | 300 Charms
+715 | 75 Random Boosters | 2 Scrolls
+780 | 300 Charms | 75 Collector's Tokens
+845 | 2 Scrolls | 1 Distressed Green Border
+910 | 100 Credits | 75 Random Boosters
+975 | 1 Premium Mystery Border | 400 Charms
+1040 | 75 Random Boosters | 2 Scrolls
+1105 | 300 Charms | 125 Credits
+1170 | 4 Scrolls | 1 Glyphs Green Border
+1235 | 125 Collector's Tokens | 75 Random Boosters
+1300 | 2 Fire Purple Border | 500 Charms
+1365 | 75 Random Boosters | 2 Scrolls
+1430 | 300 Charms | 100 Collector's Tokens
+1495 | Mystery Variant | 2 Fire Purple Border
+1560 | 125 Credits | 75 Random Boosters
+1700 | 300 Charms | New Variant: Star-Hawk Eric Canete
+
+**Event Total Breakdown**
+
+Reward | Free Track | Premium Track | Total
+ ---|---|---|---
+Event Currency | 1,800 | 1,800 | 3,600
+Tickets | 10 | 10 | 24
+Credits | 225 | 225 | 450
+Tokens | 250 | 250 | 500
+Mystery Variant | 1 |  | 1  
+Boosters | 375 | 375 | 750
+Borders | 7 | 7 | 14
+New S4 Card | 1 |  | 1
+Premium Variant |  | 1 | 1
+
+**What can I do with my points?**  
+
+Your points earned in each match are converted to charms, those charms can be spent in the event shop. There is a wide range of items available.
+
+**Shop Rewards**
+
+*Portal Pulls*
+
+* 800 Charms per pull (no gold conversion offered in the info this time)  
+* Magik Zeronus Variant  
+* Makkari Dan Hipp Variant  
+* X-23 Grafit Studio Variant  
+
+*Daily Shop*
+
+* 8 Hour refresh  
+
+Item | Limit | Cost
+---|---|---
+Avatar | 1 | 150  
+Emote | 1 | 1500  
+Rare Variant | 1 | 500  
+Super Rare Variant | 1 |  800  
+7 Tickets | 1 | 100 gold
+
+*All Offers*  
+
+Item | Description | Limit | Charms 
+---|---|---|---
+Card Pack | Collector's Series 4 | 1 | 1700  
+Card Pack | Series 3 | 3 | 600    
+New Variant | Star-Lord Pocket Variant | 1 | 600  
+New Emote | Shocked Moondragon | 1 |  1200  
+Variant | Premium Mystery | 2 |  500 
+Border  | Purple Fire | 12 |  600  
+Border  | Distressed Green | 12 |  600  
+Border  | Green Fire | 12 |  600  
+Border  | Cosmic Purple| 12 |  600  
+Border  | Cosmic Black | 12 |  600  
+Border  | Cosmic Green | 12 |  600  
+Border  | Green Glyphs | 12 |  300  
+Border  | Premium Mystery Border | 1 |  600  
+Border  | Common Mystery Border | 1 |  300  
+Avatar | Silver Surfer | 1 | 150  
+Avatar | Magik | 1 | 150 
+Avatar | Makkari | 1 | 150 
+Credits 100 | 3 | 60  
+Credits 50 | 3 |  30  
+
+**Banned Cards**  
+
+Should the list change I will add/remove/update as the event goes on.
+
+* Annihilus  
+* Cannonball  
+* Captain Marvel  
+* Cull Obsidian  
+* Debrii  
+* Dracula  
+* Galactus  
+* Galactus First Steps \*  
+* Gamora  
+* Green Goblin  
+* Hobgoblin  
+* Invisible Woman  
+* Juggernaut  
+* Magik  
+* Makkari  
+* Malekith  
+* Martyr  
+* MBaku  
+* Mysterio  
+* Negasonic Teenage Warhead  
+* Quake  
+* Rocket And Groot  
+* Rocket Raccoon  
+* Scream  
+* Storm  
+* Supergiant  
+* Surtur  
+* Viper  
+* Werewolf By Night  
+
+* \* indicates new to the banlist
+
+----
+
+Feel free to use this thread to post decks, discuss the evolution (if any) in the meta. While this is a megathread, deck guides are still welcome as a separate post if you want to present a guide to your deck rather than just a simple list. 
+
+Typical janitorial stuff: Remember the Subreddit rules and be polite to one another. 

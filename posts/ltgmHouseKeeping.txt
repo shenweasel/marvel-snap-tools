@@ -1,0 +1,41 @@
+House Keeping and Errata that doesn't really belong in the main template:
+
+* No banlist changes  
+
+* Reduced run time - we went from a 10 day run to the normal 7 day run
+
+* Reduced run means reduced premium pass price, from 1200 to the 800 gold that we're already familiar with.
+
+* Rewards economy does appear to be settled when comparing the last few week-long LTGM's, I'll be including the full breakdown for each LTGM but unless we have say a weekend run or an extended run I wouldn't expect to see much change.  
+
+* No avatars in the shop details from the SD post as of current, I'll add those to the main post once I can confirm with the event start.  
+
+* Some cards have changed, I'm using the datamined info from snap.fan to fill in gaps. However, I'll also monitor to adjust the numbers and text if things aren't as they appear from the data mines. This is kind of important as for instance, Team Clash Wolverine's text changed to say that "at the start of each turn, +2 Power if you have any bonus energy."  His ability no longer destroys himself to get the bonus meaning more synergy with the Armor inclusion in the base deck.  
+
+* SD didn't release any of the Brotherhood's text in the discord announcement only a static image of the cards so again, using datamined info from December for those cards, consider it placeholder until the event starts and I'll edit it in later.  
+
+---
+
+* Log in ASAP and go to the Team Clash event in the app at reset to get the countdown on ticket refreshes rolling.  
+
+* Avoid over-capping your tickets when possible if you're taking the mode somewhat seriously. 
+
+* If you care about not over-capping and have a solid win rate you may as well retreat and give a few folks some 'free' currency and progress. 
+
+---
+
+Econ and Strategy info specific to this event can be found at: https://FourthLocation.com 
+
+* Econ info is premium gated for about 48 hours from posting, expect that available on Sunday.  
+
+* Strategy info is gated to premium until 5p.  
+
+You can also find info for Team Clash at: https://marvelsnapzone.com/team-clash/
+
+* This info is essentially the same as what is in the main thread.
+
+* This has some strategy available for the decks but does not yet feature the Brotherhood of Mutants info https://marvelsnapzone.com/team-clash-guide/  
+
+You can Find Team Clash deck info here: https://snap.untapped.gg/en/team-clash
+
+* This is not yet live, it should be live at the time of reset or shortly after.  
